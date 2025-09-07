@@ -105,6 +105,35 @@ timeline
 
 ---
 
+## 🧑‍💻 Perfil TryHackMe  
+<p align="center">
+  <a href="https://tryhackme.com/p/And.VP">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/And.VP.png" alt="TryHackMe Badge" />
+  </a>
+</p>
+
+---
+
+## 📜 Certificaciones  
+<p align="center">
+  <img src="https://img.shields.io/badge/Trellix-DLP%20Endpoint%20Administration-blue?style=for-the-badge&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trellix-Certified%20Architect%20Helix-blueviolet?style=for-the-badge&logo=archlinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trellix-ePolicy%20Orchestrator%20Admin-1abc9c?style=for-the-badge&logo=buffer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Acronis-XDR%20Certified-orange?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudTech-MDR%20Professional-2ecc71?style=for-the-badge&logo=icloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Radware-Bot%20Manager%20Technical-red?style=for-the-badge&logo=datadog&logoColor=white" />
+  <img src="https://img.shields.io/badge/Radware-Cloud%20WAF%20Certified-red?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Imperva-Cloud%20App%20Security-34495e?style=for-the-badge&logo=cloudsmith&logoColor=white" />
+  <img src="https://img.shields.io/badge/CyberArk-Identity%20Admin-2980b9?style=for-the-badge&logo=protonmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft-Active%20Directory%20Admin-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cyberland-Certified%20Deep%20Web%20Security%20(CDWS)-8e44ad?style=for-the-badge&logo=torproject&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cyberland-Certified%20Web%20Apps%20Pentester%20(CWAP)-c0392b?style=for-the-badge&logo=hackaday&logoColor=white" />
+  <img src="https://img.shields.io/badge/ISO%2027001-Auditor%20Interno-16a085?style=for-the-badge&logo=iso&logoColor=white" />
+  <img src="https://img.shields.io/badge/Liderazgo-Gestión%20Gerencial-yellow?style=for-the-badge&logo=lemonade&logoColor=white" />
+</p>
+
+---
+
 ## 🌐 Conecta conmigo  
 <p align="center">
   <a href="https://www.linkedin.com/in/andres-valdivieso-pinilla/">
@@ -123,18 +152,3 @@ timeline
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0e76a8&height=120&section=footer"/>
 </p>
-
-<!--
-**chanda84/chanda84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
