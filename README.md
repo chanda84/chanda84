@@ -6,7 +6,7 @@
 
 🚀 **Ingeniero de Sistemas y Ciberseguridad** con más de 7 años de experiencia en:  
 🔹 **MDR / XDR** | Arquitecturas de defensa | Respuesta a incidentes | Análisis de malware  
-🔹 Implementación de soluciones con **Trellix, Acronis, Cisco, Radware, Imperva y CyberArk**  
+🔹 Manejo de soluciones **Trellix, Acronis, Cisco, Radware,Totemomail, Imperva y CyberArk**  
 🔹 Diseño de estrategias bajo **MITRE ATT&CK, NIST e ISO 27001**
 
 💡 Me interesa poder **ayudar a las organizaciones a protegerse proactivamente frente a amenazas avanzadas.**
