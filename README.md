@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e76a8,100:000000&height=200&section=header&text=Andrés%20Valdivieso%20Pinilla%20%7C%20Ingeniero%20de%20Ciberseguridad&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 </p>
