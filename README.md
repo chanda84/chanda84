@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e76a8,100:000000&height=200&section=header&text=Andrés%20Valdivieso%20Pinilla%20%7C%20Ingeniero%20de%20Ciberseguridad&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 </p>
 
-🚀 **Ingeniero de Sistemas y Ciberseguridad** con más de 7 años de experiencia en:  
+🚀 **Ingeniero de Sistemas y Ciberseguridad** con experiencia en:  
 🔹 **MDR / XDR** | Arquitecturas de defensa | Respuesta a incidentes | Análisis de malware  
 🔹 Manejo de soluciones **Trellix, Acronis, Cisco, Radware,Totemomail, Imperva y CyberArk**  
 🔹 Diseño de estrategias bajo **MITRE ATT&CK, NIST e ISO 27001**
